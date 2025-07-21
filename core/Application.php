@@ -2,7 +2,6 @@
 
 namespace Framework;
 
-use Illuminate\Database\Capsule\Manager as Capsule;
 
 class Application
 {
